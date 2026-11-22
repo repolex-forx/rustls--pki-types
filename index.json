@@ -1,0 +1,11 @@
+{
+  "org": "rustls",
+  "repo": "pki-types",
+  "versions": [
+    {
+      "commit": "e29ad15465126acc089b39611bcec85e27ce0817",
+      "tag": "v/1.15.1",
+      "parsed_at": "2026-11-22T17:02:22.951015+00:00"
+    }
+  ]
+}
